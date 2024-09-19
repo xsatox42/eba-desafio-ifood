@@ -16,11 +16,17 @@ O objetivo deste projeto é realizar uma análise exploratória dos dados para e
 
 ## Análises Realizadas
 - **Distribuição de Renda**: Analisada através de histogramas e boxplots para observar a dispersão e simetria dos dados.
+![histograma_renda](https://github.com/user-attachments/assets/dee45a6c-7479-4466-969e-fe74f5a16b66)
 - **Perfis de Educação**: Comparação dos níveis de educação dos clientes, identificando uma predominância de clientes com graduação.
 - **Estado Civil e Número de Filhos**: Investigação sobre a relação entre estado civil e número de filhos por meio de boxplots e estatísticas descritivas.
+  ![estado-civil](https://github.com/user-attachments/assets/5f0f5bbf-de96-4871-b6bd-d41219b92150)
 - **Gastos vs Filhos**: Comparação de gastos em diferentes faixas de clientes com base no número de filhos.
+![boxplot_filhos_vs_gastos](https://github.com/user-attachments/assets/71d9a5c3-142c-4a77-adbe-b512da9b87c8)
 - **Correlação entre Gastos e Renda**: Avaliada através de gráficos de dispersão e cálculo da correlação de Pearson.
+  ![gastsosrenda](https://github.com/user-attachments/assets/9f586b1e-05f5-48d7-93f3-0f43d1573dd3)
 - **Comparação de Consumo entre Faixas de Renda**: Análise detalhada do consumo de diferentes categorias de produtos, como vinhos e carne, por faixa de renda (baixa, média e alta).
+  ![gastos-faixa](https://github.com/user-attachments/assets/8efe16d7-91ed-4716-991b-e34b47b815f3)
+
 
 ## Conclusões
 - Clientes com maior renda tendem a gastar mais, conforme mostrado pela correlação forte entre renda e despesas.
